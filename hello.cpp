@@ -2,5 +2,6 @@
 using std::cout;
 using std::endl;
 int main(){
-  cout<<"Hello, word!"<<endl;
+  cout<<"Hello,World";
+  cout<<endl;
 }
